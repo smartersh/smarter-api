@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=smarter_api
+POSTGRES_USER=VmWdGdHMpYlVdxDuyHDPrwIabpfcjeVd
+POSTGRES_PASSWORD=zxbSPXeGYTsMzLId088rvF3Z6jDLjO8A21qLtRhMAuIx2rtqoJcNvjTfxtxEgzf0
